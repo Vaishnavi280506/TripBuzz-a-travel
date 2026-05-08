@@ -39,7 +39,7 @@ The goal was to master HTML structure and CSS layout techniques without relying 
 3. No installs needed — opens instantly
 
 ## Live demo
-[View it here](https://vaishnavi280506.github.io/TripBuzz/)
+[View it here]( https://vaishnavi280506.github.io/TripBuzz-a-travel/)
 
 ## Built by
 Vaishnavi Vingale · [LinkedIn](https://www.linkedin.com/in/vaishnavi-vingale-08a517345) · [GitHub](https://github.com/Vaishnavi280506)
