@@ -5,7 +5,7 @@ Inspired by real-world airline platforms like IndiGo, focusing on a clean, moder
 
 ## Preview
 
-![TripBuzz Preview](add-your-screenshot-filename-here.png)
+![TripBuzz Preview](preview.png)
 
 ## About the project
 
